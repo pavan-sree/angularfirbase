@@ -1,0 +1,20 @@
+i{
+    cursor: pointer;
+    transition: .4s  ease-in-out;
+}
+
+i:hover{
+    transform: scale(1.5);
+}
+#body1{
+  margin-top: 10px;
+  background-image: url('https://img.freepik.com/premium-photo/old-paper-texture-background_118047-1365.jpg');
+  border-radius: 20px;
+}
+.add{
+  background-color: rgb(172, 19, 19);
+  width:50px;
+  border-radius: 10px;
+}
+
+
